@@ -2,10 +2,9 @@
  * NTML Authorisation Controller
  *
  * @description :: Server-side logic that returns the Windows Account User ID in Intranets.
- *				   Used to create a similar feature to Single Sign On.
- *				   This example is from a Sails.js controller in a Node.js stack.
+ *		   This example is from a Sails.js controller in a Node.js stack.
  *
- * @author 		:: Glen Holmes
+ * @author      :: Glen Holmes
  * @help        :: See http://sailsjs.org/#!/documentation/concepts/Controllers
  */
 
